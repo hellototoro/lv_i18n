@@ -1,0 +1,6 @@
+# Demo data for template & C code testing
+
+fr:
+
+# Empty locale to test missed things lookup
+de-DE: {}

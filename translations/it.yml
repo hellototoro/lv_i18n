@@ -1,0 +1,110 @@
+it:
+  setting_p_picture_setting: Impostazioni video
+  setting_p_picture_mode: Modalita immagine
+  setting_p_picture_mode_type_standard: Medio
+  setting_p_picture_scale: Rapporto d'aspetto
+  setting_p_picture_color_temp: Temp.del Colore
+  setting_p_picture_color_temp_type_standard: Medio
+  setting_p_picture_rate: Reduce Display Size
+  setting_p_picture_rate_100: 100%
+  setting_p_picture_power_bank_mode: Modalità Powerbank
+  setting_p_picture_power_bank_mode_low: Basso
+  setting_p_picture_mode_contrast: Contrasto
+  setting_p_picture_mode_brightness: Luminosità
+  setting_p_picture_mode_colour: Colore
+  setting_p_picture_mode_sharpness: Nitidezza
+  setting_p_picture_color_temp_red: Rosso
+  setting_p_picture_color_temp_green: Verde
+  setting_p_picture_color_temp_blue: Blu
+  setting_p_picture_mode_type_standard_soft: Morbido
+  setting_p_picture_mode_type_standard_user: Utente
+  setting_p_picture_mode_type_standard_dynamic: Vivido
+  setting_p_picture_color_temp_type_warm: Caldo
+  setting_p_picture_color_temp_type_user: Utente
+  setting_p_picture_color_temp_type_cool: Fresco
+  setting_p_picture_scale_auto: Auto
+  setting_p_picture_power_bank_mode_middle: Middle
+  setting_p_picture_power_bank_mode_high: Alto
+  setting_p_sound_setting: Impostazioni audio
+  setting_p_sound_mode: Mode audio
+  setting_p_sound_mode_type_standard: Standard
+  setting_p_sound_surround: Surround Sound
+  setting_p_sound_surround_off: 'Off'
+  setting_p_sound_auto_volume: Auto Volume
+  setting_p_sound_auto_volume_off: 'Off'
+  setting_p_sound_mode_treble: Alti
+  setting_p_sound_mode_bass: Basso
+  setting_p_sound_mode_type_music: Musica
+  setting_p_sound_mode_type_movie: Cinema
+  setting_p_sound_mode_type_sport: Sport
+  setting_p_sound_mode_type_user: Utente
+  setting_p_system_setting: Impostazioni di sistema
+  setting_p_system_language: Lingua OSD
+  setting_p_system_osd_time: OSD Duration
+  setting_p_system_osd_time_off: 'Off'
+  setting_p_system_restore_factory_mode: Ripristina
+  setting_p_system_osd_time_5: 5S
+  setting_p_system_osd_time_10: 10S
+  setting_p_system_osd_time_15: 15S
+  setting_p_system_osd_time_20: 20S
+  setting_p_system_osd_time_25: 25S
+  setting_p_system_osd_time_30: 30S
+  songs:
+    other: (%d canzoni)
+  media_category_p_all: Tutti i files
+  media_category_p_video: File video
+  media_category_p_music: File musicali
+  media_category_p_photo: File di foto
+  media_category_p_text: File di testo
+  media_file_p_return: Ritorno
+  media_file_p_path: 'sentiero:'
+  media_no_lyric: Nessun testo
+  media_no_device: Nessun dispositivo
+  media_udisk_removed: ~
+  home_movie: Cinema
+  home_music: Musica
+  home_picture: Foto
+  home_mirroring: Mirroring
+  home_udisk: Disco U
+  home_hdmi: HDMI
+  home_setting: Set
+  language_espaol: Español
+  language_deutsch: Deutsch
+  language_english: English
+  language_italiano: Italiano
+  language_france: Français
+  language_chinese: 简体中文
+  setting_p_net_work: Rete
+  setting_p_projector: Proiettore
+  setting_p_picture: Video
+  setting_p_sound: Suo
+  setting_p_system: Sistema
+  setting_p_upgrade: Aggiornamento
+  setting_p_usb_upgrade: Aggiornamento software(USB)
+  setting_p_ota_upgrade: Aggiornamento software(OTA)
+  setting_p_projector_info: Info
+  setting_p_sound_surround_srs: SRS TruSurround XT
+  setting_p_sound_auto_volume_on: On
+  setting_p_wifi: Wifi
+  setting_p_bluetooth: Bluetooth
+  setting_p_refresh: Ricaricare
+  setting_p_wifi_connected: Collegare
+  setting_p_wifi_available: A disposizione
+  setting_p_code: Codice
+  setting_p_show_code: Mostra codice
+  setting_p_connect: Collegare
+  setting_p_ok: OK
+  setting_p_cancel: Annulla
+  setting_p_waiting: Attesa...
+  setting_p_be_sure: Sei sicuro?
+  hdmi_no_single: NESSUN SEGNALE
+  cast_mira: Schermo Android
+  cast_airplay: Schermo iOS
+  cast_wait_for_connect: In attesa di connessione...
+  cast_connecting: Connessione in corso...
+  cast_password: password
+  cast_mira_str1: "1. Attiva la funzione Multi-schermo o Screen Mirroring sul tuo dispositivo Android.\n2. In attesa e scegliendo "
+  cast_mira_str2: "Note : 1.Your device may pop up 'turn on the WLAN' during the search,then choose 'Yes'. \n2.If there is no popup or no devices could be found to connect,please turn on the WLAN manually.Scan QR code/Through the URL to get the video of connection:https://bit.ly/3OdJ311"
+  cast_airplay_str1: "      1. Sul tuo dispositivo iOS,attiva il WI-FI e connetti "
+  cast_airplay_str2: "      2. Aprire Centro di controllo e Screen Mirroring. \n3. Seleziona e Connetti "
+  cast_airplay_str3: "Nota : 1. il router WIFI deve attivare il DHCP per evitare errori di connessione. \n2. Scansionare il codice QR/Attraverso l'URL per la connessione del video: https://bit.ly/3OdJ311"
